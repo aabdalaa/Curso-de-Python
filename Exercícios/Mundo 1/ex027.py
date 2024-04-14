@@ -1,0 +1,6 @@
+s = str(input('digite o seu nome completo: ')).strip()
+nome = s.split()
+print('é um prazer te conhecer {}.'.format(nome[0]))
+print('fiquei sabendo que seu primeiro nome é {}.'.format(nome[0]))
+print('e fiquei sabendo que seu ultimo nome é {}.'.format(nome[len(nome)-1]))
+print('um passarinho que me contou !')
