@@ -4,7 +4,7 @@ Bem-vindo ao repositório de projetos do Curso de Python do Professor Gustavo Gu
 
 ## Sobre o Curso
 
-O Curso de Python ministrado pelo Professor Gustavo Guanabara é um dos mais populares e abrangentes disponíveis em língua portuguesa. Com uma abordagem prática e didática, o curso ensina desde os conceitos básicos até tópicos avançados da linguagem Python.
+O Curso de Python ministrado pelo Professor Gustavo Guanabara é um dos mais populares e abrangentes disponíveis. Com uma abordagem prática e didática, o curso ensina desde os conceitos básicos até tópicos avançados da linguagem Python.
 
 ## Contribuições
 
