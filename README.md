@@ -12,7 +12,7 @@ Contribuições para melhorias nos projetos existentes ou adição de novos proj
 
 ## Curso em Vídeo
 
-Para mais informações sobre o curso ou para entrar em contato com o Professor Gustavo Guanabara, visite o site oficial do curso [aqui](https://www.cursoemvideo.com).
+Para mais informações sobre o curso visite o site oficial do curso [aqui](https://www.cursoemvideo.com).
 
 ---
 
